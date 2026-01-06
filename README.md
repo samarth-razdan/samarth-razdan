@@ -1,6 +1,6 @@
 # About me
 
-Hello there! I am Samarth Razdan. I am deeply interested in exploring computational aspects of material science. I am proficient in using classical molecular dynamics and density functional theory. Join me on my journey to explore application of data-driven methodologies to clean energy research.
+Hello there! I am Samarth Razdan. I am deeply interested in exploring computational aspects of material science. I am proficient in using classical molecular dynamics and density functional theory. Join me on my journey to explore application of data-driven methodologies to clean energy research. @[iitbhilai](https://www.iitbhilai.ac.in)
 
 <!--
 **samarth-razdan/samarth-razdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
